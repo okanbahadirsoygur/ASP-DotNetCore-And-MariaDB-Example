@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetCoreMVCAndMariaDBApiExample", "dotNetCoreMVCAndMariaDBApiExample\dotNetCoreMVCAndMariaDBApiExample.csproj", "{7B6864CA-331D-4F69-BEB2-74F0AE14681E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B6864CA-331D-4F69-BEB2-74F0AE14681E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6864CA-331D-4F69-BEB2-74F0AE14681E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6864CA-331D-4F69-BEB2-74F0AE14681E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6864CA-331D-4F69-BEB2-74F0AE14681E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2E90AA-117B-4F62-AA3D-2FFD4D1AD175}
+	EndGlobalSection
+EndGlobal

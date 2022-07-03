@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7B6864CA-331D-4F69-BEB2-74F0AE14681E}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotNetCoreMVCAndMariaDBApiExample/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="dotNetCoreMVCAndMariaDBApiExample/Controllers/HomeController.cs" Line="34" Column="1" IsPinned="True" />
+      <File FileName="dotNetCoreMVCAndMariaDBApiExample/Views/Home/Index.cshtml" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotNetCoreMVCAndMariaDBApiExample" expanded="True">
+            <Node name="dotNetCoreMVCAndMariaDBApiExample" expanded="True">
+              <Node name="Contexts" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotNetCoreMVCAndMariaDBApiExample PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
